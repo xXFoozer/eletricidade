@@ -1,0 +1,15 @@
+body{
+    background-color: dimgray;
+    color: antiquewhite;
+}
+nav{
+text-align: center;
+
+}
+nav a{
+    color:white;
+    text-decoration: none;
+}
+div{
+    text-align: center;
+}

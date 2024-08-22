@@ -1,0 +1,19 @@
+body{
+    background-color: darkgray;
+    color: aliceblue;
+}
+nav{
+    text-align: center;
+    
+    }
+nav a{
+    color:white;
+    text-decoration: none;
+}
+div{
+    text-align: center;
+}
+div img{
+    width: 865px;
+    height: 440px;
+}
